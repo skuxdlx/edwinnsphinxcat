@@ -3,9 +3,17 @@ h1{
   background-color:SkyBlue;
 font-family:cursive,monospace;
  text-align: center;
-     text-align: center;
+    
   
 }
+
+p {  text-align: center;
+     color:Green;
+
+font-family:cursive,monospace;
+
+
+
 
 body {
   background: linear-gradient(0, #FFFFF0, #87CEFA);
