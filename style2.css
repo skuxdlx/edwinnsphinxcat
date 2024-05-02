@@ -1,22 +1,43 @@
-h1{
-  color:Green;
-  background-color:SkyBlue;
-font-family:cursive,monospace;
- text-align: center;
-   font-size: 100px;
-    
+h1 {
+  color: Green;
+  text-align: center;
+  font-family:monospace,cursive;
+  font-size: 100px;
+  background: LightSkyBlue;
+  
+  <!--text-shadow: 1px 1px 2px black, 0 0 25px #f6511d, 0 0 5px #ffb400; -->
+}
+h2 {
+  color: Green;
+  text-align: center;
+  font-family:monospace,cursive;
   
 }
-
-
-p {  
+h3 {
+  color: Green;
   text-align: center;
-     color:Green;
-font-size: 30px;
-font-family:cursive,monospace;
-
-  }
-
+  font-family:monospace,cursive;
+}
+h4 {
+  color: Green;
+  text-align: center;
+  font-family:monospace,cursive;
+}
+h5 {
+  color: Green;
+  text-align: center;
+  font-family:monospace,cursive;
+}
+h6 {
+  color: Green;
+  text-align: center;
+  font-family:monospace,cursive;
+}
+p {
+  color: Green;
+  text-align: center;
+  font-family:monospace,cursive;
+}
 
 body {
   background: linear-gradient(0, #FFFFF0, #87CEFA);
