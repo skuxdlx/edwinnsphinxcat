@@ -6,3 +6,7 @@ font-family:cursive,monospace;
      text-align: center;
   
 }
+
+body {
+  background: linear-gradient(0, #FFFFF0, #87CEFA);
+}
