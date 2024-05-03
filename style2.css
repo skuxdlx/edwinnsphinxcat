@@ -1,7 +1,7 @@
 h1 {
   color: Green;
   text-align: center;
-  font-family:monospace,cursive;
+   font-family: 'Comic Sans MS', cursive;
   font-size: 100px;
   background: LightSkyBlue;
   
@@ -10,33 +10,33 @@ h1 {
 h2 {
   color: Green;
   text-align: center;
-  font-family:monospace,cursive;
+  font-family: 'Comic Sans MS', cursive;
   
 }
 h3 {
   color: Green;
   text-align: center;
-  font-family:monospace,cursive;
+  font-family: 'Comic Sans MS', cursive;
 }
 h4 {
   color: Green;
   text-align: center;
-  font-family:monospace,cursive;
+  font-family: 'Comic Sans MS', cursive;
 }
 h5 {
   color: Green;
   text-align: center;
-  font-family:monospace,cursive;
+  font-family: 'Comic Sans MS', cursive;
 }
 h6 {
   color: Green;
   text-align: center;
-  font-family:monospace,cursive;
+  font-family: 'Comic Sans MS', cursive;
 }
 p {
   color: Green;
   text-align: center;
-  font-family:monospace,cursive;
+  font-family: 'Comic Sans MS', cursive;
 }
 
 body {
