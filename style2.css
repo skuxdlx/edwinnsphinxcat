@@ -7,32 +7,7 @@ h1 {
   
   <!--text-shadow: 1px 1px 2px black, 0 0 25px #f6511d, 0 0 5px #ffb400; -->
 }
-h2 {
-  color: Green;
-  text-align: center;
-  font-family: 'Comic Sans MS', cursive;
-  
-}
-h3 {
-  color: Green;
-  text-align: center;
-  font-family: 'Comic Sans MS', cursive;
-}
-h4 {
-  color: Green;
-  text-align: center;
-  font-family: 'Comic Sans MS', cursive;
-}
-h5 {
-  color: Green;
-  text-align: center;
-  font-family: 'Comic Sans MS', cursive;
-}
-h6 {
-  color: Green;
-  text-align: center;
-  font-family: 'Comic Sans MS', cursive;
-}
+
 p {
   color: Green;
   text-align: center;
