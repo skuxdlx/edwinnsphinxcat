@@ -1,7 +1,7 @@
 h1 {
   color: Green;
   text-align: center;
-   font-family: Copperplate;
+ font-family: Helvetica, sans-serif;
   font-size: 100px;
   background: LightSkyBlue;
 
@@ -10,7 +10,7 @@ h1 {
 p {
   color: Green;
   text-align: center;
-  font-family: monospace,cursive;
+ font-family: Helvetica, sans-serif;
    font-size: 70px;
 }
 
